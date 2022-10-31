@@ -1,0 +1,4 @@
+name: Bonus Plugin
+version: '${version}'
+main: dev.isksss.mc.bonusplugin.BonusPlugin
+api-version: 1.19
